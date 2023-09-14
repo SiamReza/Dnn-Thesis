@@ -1,0 +1,5 @@
+{
+    "learning_rate": 0.01,
+    "dropout_rate": 0.1,
+    "lrDecay": 0.9500000000000001
+}
