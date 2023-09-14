@@ -1,0 +1,8 @@
+{
+    "json_file": "././Model/layer3/Hyperparams.json",
+    "learning_rate": 0.01,
+    "dropout_rate": 0.1,
+    "lrDecay": 0.89,
+    "hidden_layer1": 128,
+    "hidden_layer2": 128
+}
